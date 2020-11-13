@@ -1,0 +1,395 @@
+#content {
+	background-color:black;
+	width:100%;
+	margin-left: 21.6%;
+	width:78.4%;
+	min-height: 0rem;
+	margin-bottom: -2%
+}
+Body{
+	Padding:0;
+	Margin:0;
+}
+.font_style{
+	font-family: stencil;
+}
+.font_color{
+	color:#ca0000;	
+}
+#header_image{
+	width:22%;	
+}
+#header{
+	display: inline-flex;
+	width: 100%;
+	position: fixed;
+	background-color: #1d1c1cf7;
+}
+#image_header{
+	width: 25%;
+    margin-top: 3%;
+    margin-left: 69%;
+}
+#header_menu{
+	width: 50%;
+	margin-left: 8%;
+}
+#header_menu ul{
+	margin-top: 5%;
+	list-style: none;
+	display: inline-flex;
+	width: 100%;
+}
+#header_menu ul li{
+	margin-left: 4%;	
+}
+#header_menu ul li a{
+	text-decoration: none;
+}
+#container{
+	width: 100%;
+	background-color: black;
+}
+#container_first{
+	width: 100%;
+	padding-top: 6%;
+}
+#container_first_main{
+	width: 72%;
+	margin:auto;
+}
+#container_first_main ul {
+	display: inline-flex;
+	list-style: none;
+	width: 100%;
+}
+#container_first_main ul li{
+	margin-left: 0%;
+	width: 49%;
+}
+#image_main{
+	width: 88%;
+}
+#list_about{
+	padding-top: 0%;
+	margin-top: 14%;
+	width: 100%;
+}
+.button{
+        /* bottom: 20px; */
+    /* right: 30px; */
+    background-color: #1d1c1cf7;
+    color: #b30704;
+    cursor: pointer;
+    padding: 2%;
+    min-height: 52px;
+    /* width: 4%; */
+    border-radius: 3%;
+    text-decoration: none;
+    font-size: 2rem;
+}
+#button_main{
+	margin-top: 11%;
+}
+#experience_main{
+	width: 72%;
+	margin-top: 10%;
+	margin-left:auto;
+	margin-right:auto;
+}
+#list_experience{
+	list-style: none;
+	margin-top: 8%;
+	margin-left: -4%;
+	display: inline-flex;
+	width: 100%;
+}
+
+#title_experience{
+	width: 70%;
+    text-align: end;
+
+}
+#image_experience{
+	width: 100%;
+	box-sizing: border-box;
+}
+.list_master{
+	width: 30%;
+	display: inline-flex;
+	
+}
+.list_image{
+	width: 40%;
+}
+.image_list{
+	width: 100%;
+}
+.list_master p{
+	width: 74%;
+	display: inline-flex;
+}
+.list_master div{
+	width: 25%;
+}
+.list_items{
+	display: inline-flex;
+}
+#need_pad{
+	box-sizing: border-box;
+    padding-left: 2%;
+}
+#booking_main{
+    display: inline-flex;
+   	margin-top: 2%;
+    width: 70%;
+    margin-left: 17%;
+    background-color: 
+}
+#booking{
+    margin-top: 5%;
+	border-top: 8px solid #1d1c1cf7;
+	border-bottom: 8px solid #1d1c1cf7;
+}
+#Button_exp{
+	width: 30%;
+    margin-left: 10%;
+}
+#classes_list{
+	list-style: none;
+	display: inline-flex;
+	width: 80%;
+	margin-left: 6%;
+}
+.image_classes{
+	width: 100%;
+	height:12rem;
+}
+.image_class{
+	width: 100%;
+}
+.li_style{
+	list-style: none;
+	--display: inline-flex; 
+	
+	width: 32%;
+	margin-left: 2%;
+ }
+
+#title_our{
+	margin-left: 0%;
+	margin-top: 6%;
+	text-align: center;
+}
+.parra{
+	width: 100%;
+	margin-top: 1%;
+	text-align: center;
+}
+#phrase{
+	padding-top: 6%;
+}
+#phrase_main{
+	background-image: url(../Imagenes/cobrakai.jpg);
+    background-repeat: no-repeat;
+   background-size:cover; /* Encajamos la imagen al 100% del ancho */
+	background-attachment: fixed;	
+    height: 20rem;
+}
+#inner{
+	    width: 100%;
+    text-align: center;
+    padding-top: 6%
+}
+table{
+	border-collapse: collapse;
+	margin-left: 10%;
+	width: 80%;
+
+}
+
+th, td, tr{
+	font-family: arial;
+	text-align: center;
+	border: 1px solid #9e0202;
+	box-sizing: border-box;
+	padding:1rem 0.5rem;
+}
+.back_color{
+	background-color:#ca0000;
+	color:black;
+}
+.back_color_{
+	color:black;
+}
+#info{
+	padding-top: 5%;
+}
+#info_main{
+	background-color: #9e0202;
+	box-sizing: border-box;
+	padding: 5% 0;
+}
+#container_info{
+	    width: 75%;
+    margin: auto;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-left: 9%;
+}
+#info_inner{
+	width: 100%;
+}
+#info_list{
+		display: inline-flex;
+		list-style: none;
+}
+.image_info{
+	    width: 80%;
+    border-radius: 50%;
+    height: 10rem;
+}
+#container_center{
+	width: 100%;
+	padding-top: 6%;
+}
+#container_center_main{
+	width: 72%;
+	margin:auto;
+}
+#container_center_main ul {
+	display: inline-flex;
+	list-style: none;
+	width: 100%;
+}
+#container_center_main ul li{
+	margin-left: 0%;
+	width: 49%;
+}
+#cups{
+	padding: 3% 0;
+	background-color: #1d1c1cf7;
+}
+.image_cups{
+	width: 50%;
+	margin-left: 25%;
+}
+.font_style_{
+	font-family: arial;
+}
+#Button_shop{
+	width: 30%;
+    margin-left: 45%;
+    margin-top: 4%;
+    padding-bottom: 2%;
+}
+#contact{
+	padding-top: 7%;
+}
+#contact_main{
+	display: inline-flex;
+	width: 100%;
+}
+#contact_inner{
+	width: 90%;
+	display: inline-flex;
+	margin-left: auto;	
+}
+#contact_main ul{
+	width: 30%
+}
+#contact_main li{
+	margin-top: 4%;
+}
+.list_style_contact{
+	list-style: none;
+}
+.Button_contact{
+	--width: 30%;
+    margin-left: 9%;
+    margin-top: 11%;
+    padding-bottom: 2%;
+    font-weight: 100;
+}
+#contact_main{
+	background-image: url(../Imagenes/cobraKaiColor.jpg);
+    background-repeat: no-repeat;
+   background-size:cover; /* Encajamos la imagen al 100% del ancho */
+	background-attachment: fixed;	
+    height: 20rem;
+    padding-bottom: 2%;
+}
+#list_upcoming{
+	list-style: none;
+	display: inline-flex;
+	width: 88%;
+	margin-left: 8%;
+}
+#date{
+	border:1px solid red;
+	width: 23%;
+	height: 5rem;
+    border-radius: 50%;
+    padding-left:2%;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+.list_master_events{
+	width: 42%;
+	display: inline-flex;
+	
+}
+.list_master_events p{
+	width: 74%;
+	display: inline-flex;
+}
+#twitter{
+	padding: 3% 0;
+	background-color: #1d1c1cf7;
+}
+#twitter_main{
+	width: 60%;
+	margin-left: 34%;
+	display: inline-flex;
+}
+#image_twitter{
+	width: 7%;
+}
+#footer_main{
+	width: 80%;
+}
+#footer_image{
+	width:	 25%;
+	margin-left: 50%;
+}
+#footer_main_list{
+	display: inline-flex;
+	margin-left: 42%;
+	margin-top: 5%;
+}
+#footer_main_list li{
+	margin-left: 12%;
+}
+
+#image_footer{
+	width: 50%;
+    padding-left: 23%;
+    padding-top: 12%;
+}
+#footer_main_image{
+	display: inline-flex;
+	margin-left: 25%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+#footer_main_image li{
+	margin-left: 12%;
+	background-color: #1d1c1cf7;
+	border-radius: 50%;
+	height: 4rem;
+    width: 10rem;
+    list-style: none;
+}
+.social{
+	width: 100%;
+}
